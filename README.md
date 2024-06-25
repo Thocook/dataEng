@@ -6,12 +6,7 @@ This project extracts, transforms, and loads data on the top 10 largest banks by
 - [Introduction](#introduction)
 - [Features](#features)
 - [Technologies Used](#technologies-used)
-- [Setup](#setup)
 - [Usage](#usage)
-- [Project Structure](#project-structure)
-- [Queries](#queries)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 This project is designed to demonstrate the process of extracting, transforming, and loading (ETL) data for a real-world application. The focus is on the top 10 largest banks by market capitalization, with data sourced from Wikipedia and converted into various currencies using exchange rates.
@@ -30,26 +25,6 @@ This project is designed to demonstrate the process of extracting, transforming,
 - Pandas
 - NumPy
 - SQLite3
-
-## Setup
-1. **Clone the repository:**
-    ```bash
-    git clone https://github.com/yourusername/top-10-largest-banks-etl.git
-    cd top-10-largest-banks-etl
-    ```
-
-2. **Install the required packages:**
-    ```bash
-    pip install requests pandas beautifulsoup4 lxml numpy
-    ```
-
-3. **Create the `exchange_rate.csv` file:**
-    ```csv
-    Currency,Rate
-    EUR,0.93
-    GBP,0.8
-    INR,82.95
-    ```
 
 ## Usage
 1. **Run the main script:**
