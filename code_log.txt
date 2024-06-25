@@ -1,0 +1,41 @@
+2024-06-25 20:56:09 : Data extraction complete. Initiating Transformation process
+2024-06-25 20:56:09 : Starting data transformation...
+2024-06-25 20:57:19 : Data extraction complete. Initiating Transformation process
+2024-06-25 20:57:19 : Starting data transformation...
+2024-06-25 20:57:19 : Data transformation complete. Initiating Loading process
+2024-06-25 20:57:19 : Saving data to CSV file...
+2024-06-25 20:57:19 : Data saved to CSV file
+2024-06-25 20:57:19 : Saving data to database...
+2024-06-25 20:57:19 : Data saved to database
+2024-06-25 20:57:19 : Running query: SELECT * FROM Largest_banks
+2024-06-25 20:57:19 : Query execution complete
+2024-06-25 20:57:19 : Running query: SELECT AVG(MC_USD_Billion) FROM Largest_banks
+2024-06-25 20:57:19 : Query execution complete
+2024-06-25 20:57:19 : Running query: SELECT Name FROM Largest_banks LIMIT 5
+2024-06-25 20:57:19 : Query execution complete
+2024-06-25 21:00:37 : Data extraction complete. Initiating Transformation process
+2024-06-25 21:00:37 : Starting data transformation...
+2024-06-25 21:00:37 : Data transformation complete. Initiating Loading process
+2024-06-25 21:00:37 : Saving data to CSV file...
+2024-06-25 21:00:37 : Data saved to CSV file
+2024-06-25 21:00:37 : Saving data to database...
+2024-06-25 21:00:37 : Data saved to database
+2024-06-25 21:00:37 : Running query: SELECT * FROM Largest_banks
+2024-06-25 21:00:37 : Query execution complete
+2024-06-25 21:00:37 : Running query: SELECT AVG(MC_USD_Billion) FROM Largest_banks
+2024-06-25 21:00:37 : Query execution complete
+2024-06-25 21:00:37 : Running query: SELECT Name FROM Largest_banks LIMIT 5
+2024-06-25 21:00:37 : Query execution complete
+2024-06-25 21:03:37 : Data extraction complete. Initiating Transformation process
+2024-06-25 21:03:37 : Starting data transformation...
+2024-06-25 21:03:37 : Data transformation complete. Initiating Loading process
+2024-06-25 21:03:37 : Saving data to CSV file...
+2024-06-25 21:03:37 : Data saved to CSV file
+2024-06-25 21:03:37 : Saving data to database...
+2024-06-25 21:03:37 : Data saved to database
+2024-06-25 21:03:37 : Running query: SELECT * FROM Largest_banks
+2024-06-25 21:03:37 : Query execution complete
+2024-06-25 21:03:37 : Running query: SELECT AVG(MC_USD_Billion) FROM Largest_banks
+2024-06-25 21:03:37 : Query execution complete
+2024-06-25 21:03:37 : Running query: SELECT Name FROM Largest_banks LIMIT 5
+2024-06-25 21:03:37 : Query execution complete
